@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vgo_app/colors.dart';
 
+import '../colors.dart';
 import '../constants.dart';
 
 class CustomToggleSwitch extends StatefulWidget {

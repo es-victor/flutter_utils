@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:vgo_app/constants.dart';
-import 'package:vgo_app/utils/custom_button.dart';
 
 import '../colors.dart';
+import '../constants.dart';
+import 'custom_button.dart';
 
 class CustomDialog extends StatelessWidget {
   final String? title;
